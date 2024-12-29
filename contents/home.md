@@ -12,7 +12,8 @@ In addition to my academic background, I gained valuable industry experience dur
 I am proficient in various programming languages, including Python, Java, and SQL, and remain passionate about exploring cutting-edge innovations in NLP, machine learning, and AI.
 
 #### Email
-zhaoyi3[at]seas.upenn.edu
+zhaoyi3[at]seas.upenn.edu  
+zhaoyi20000313[at]gmail.com
 
 #### Education
 PhD in Computer Science, University of Georgia (UGA) (Admitted: 2025)  
