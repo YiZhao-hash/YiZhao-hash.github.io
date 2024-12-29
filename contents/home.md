@@ -15,8 +15,8 @@ I am proficient in various programming languages, including Python, Java, and SQ
 zhaoyi3[at]seas.upenn.edu
 
 #### Education
-PhD in Computer Science, University of Georgia (UGA) (Admitted: 2025)
-Master of Science in Engineering (M.S.E.), Electrical Engineering, University of Pennsylvania (2023)
+PhD in Computer Science, University of Georgia (UGA) (Admitted: 2025)  
+Master of Science in Engineering (M.S.E.), Electrical Engineering, University of Pennsylvania (2023)  
 Bachelor of Engineering (B.E.), Automation, Southwest University (2019–2023)
 
 #### Research Interests
