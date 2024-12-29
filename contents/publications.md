@@ -1,12 +1,10 @@
 - <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+-J. Zhang*, <strong>Y. Zhao</strong>, D. Chen, X. Tian, H. Zheng, and W. Zhu (2024). MiLoRA: Efficient Mixture of Low-Rank Adaptation for Large Language Models Fine-tuning. EMNLP 2024 Findings. [[Paper]](https://aclanthology.org/2024.findings-emnlp.994/)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+-X. Tian, <strong>Y. Zhao</strong>, C. Yin, W. Zhu, A. X. Tian, and Y. Ge (2024). FanLoRA: Fantastic LoRAs and Where to Find Them in Large Language Model Fine-tuning. EMNLP 2024 Industry Track. [[Paper]](https://aclanthology.org/2024.emnlp-industry.38.pdf)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+-Z. Liu*, <strong>Y. Zhao</strong>, M. Tan, W. Zhu, and A. X. Tian (2024). PARA: Parameter-Efficient Fine-tuning with Prompt-Aware Representation Adjustment. EMNLP 2024 Industry Track. [[Paper]](https://aclanthology.org/2024.emnlp-industry.55.pdf)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+-Y. Chen, H. Wang, S. Yan, S. Liu, Y. Li,<strong>Y. Zhao</strong>, and Y. Xiao (2024). Emotionqueen: A Benchmark for Evaluating Empathy of Large Language Models. ACL 2024 Findings. [[Paper]](https://aclanthology.org/2024.findings-acl.128.pdf)
